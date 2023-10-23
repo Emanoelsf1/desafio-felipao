@@ -1,5 +1,5 @@
 // Variáveis
-let nomeHeroi = ("Deadpol")
+let nomeHeroi = ("Deadpool")
 let xpHeroi = 3950
 
 
